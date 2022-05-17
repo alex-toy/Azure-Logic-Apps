@@ -1,0 +1,20 @@
+echo "export SENDGRID_API_KEY='EhDMMBr5aN_8'" > sendgrid.env
+echo "sendgrid.env" >> .gitignore
+
+
+
+
+################################################################
+#DEPLOYING TO THE VM :
+
+cd /path/to/web
+
+python3 -m venv .venv
+
+source ./sendgrid.env
+source venv/bin/activate #mac
+.\.venv\Scripts\activate #windows
+.\venv\Scripts\deactivate #windows
+
+pip install --upgrade pip 
+pip install -r requirements.txt

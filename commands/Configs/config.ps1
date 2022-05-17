@@ -188,6 +188,17 @@ $Global:CDBenableAutomaticFailover = 'false'
 
 
 
+################################################################
+"Logic App :"
+
+$Global:LAName = "alexeila"
+"Logic App name  : "  + $LAName
+
+$Global:LALocation = $RGLocation
+"Logic App location  : "  + $LALocation
+
+
+
 #######################################################################
 "Set config file :"
 
@@ -208,6 +219,6 @@ $file = ".\commands\Configs\var.cfg"
 #######################################################################
 # Next step :
 
-$script = "commands\ResourceGroup\ResourceGroup_create.ps1"
-.$script
+# $script = "commands\ResourceGroup\ResourceGroup_create.ps1"
+# .$script
 
