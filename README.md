@@ -23,6 +23,10 @@ Azure Logic Apps are Enterprise Integration Service, which means their main purp
 <img src="/pictures/loops.png" title="loops"  width="800">
 <img src="/pictures/loops2.png" title="loops"  width="800">
 
+### Until
+<img src="/pictures/until.png" title="until"  width="800">
+<img src="/pictures/until2.png" title="until"  width="800">
+
 
 
 
