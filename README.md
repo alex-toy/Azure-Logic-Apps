@@ -13,6 +13,12 @@ Azure Logic Apps are Enterprise Integration Service, which means their main purp
 ### Parallel Runs
 <img src="/pictures/parallel.png" title="parallel"  width="800">
 
+### Condition
+<img src="/pictures/condition.png" title="condition"  width="800">
+
+### Switch
+<img src="/pictures/switch.png" title="switch"  width="800">
+
 
 
 
