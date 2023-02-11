@@ -8,7 +8,10 @@ Azure Logic Apps are Enterprise Integration Service, which means their main purp
 <img src="/pictures/architecture2.png" title="architecture"  width="800">
 
 
+## Control Actions - Loops, Conditions, Parallel Runs
 
+### Parallel Runs
+<img src="/pictures/parallel.png" title="parallel"  width="800">
 
 
 
